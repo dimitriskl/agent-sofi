@@ -1,6 +1,6 @@
 [project]
 name = "agent-sofi"
-version = "0.1.0"
+version = "0.0.1"
 description = "A terminal coding assistant that runs agent pipelines defined as graphs."
 readme = "README.md"
 authors = [
